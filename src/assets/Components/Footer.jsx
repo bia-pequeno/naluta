@@ -4,20 +4,22 @@ import face from './img/face.jpeg'
 import insta from './img/insta.jpeg'
 
 
-function Header(){
+function Footer(){
     return (
         <>
         <footer className={Styles.Fundo}>
+            <p>Siga nossas redes socias</p>
             <div className={Styles.media}>
+                
                 <img src={tik} alt="" />
                 <img src={face} alt="" />
                 <img src={insta} alt="" />
             </div>
             <div className={Styles.lorm}>
-                <p>Lorem ipsum dolor sit amet consectetur</p>
+                <p>Telefone de contato : (11) 4002-8922</p>
             </div>
         </footer>
         </>
 ) 
 }
-export default Header
+export default Footer

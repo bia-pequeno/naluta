@@ -10,6 +10,7 @@ function Home(){
             <div className={Styles.textos}>
                 <h1>Lorem, ipsum dolor</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis esse voluptatibus laborum. Suscipit dicta dignissimos nobis perspiciatis, alias voluptate delectus fugit, unde maiores quasi, quod eos reiciendis expedita excepturi repudiandae.</p>
+                <button>Conhecer</button>
             </div>
         </div>
         </>

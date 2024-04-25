@@ -24,6 +24,8 @@ header{
     align-items: center;
     input{
         border: none;
+        background-color: transparent;
+        height: 34px;
     }
     img{
        width: 30px;  

@@ -18,8 +18,8 @@ function Header(){
                    <p>Katmadsu</p>
                 </div>
                 <div className={Styles.busca} >
-                    <input type="text" />
                     <img src={Lupa} alt="" />
+                    <input type="text" />
                 </div>
             </nav>
 
