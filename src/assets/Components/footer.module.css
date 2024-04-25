@@ -1,0 +1,17 @@
+.Fundo{
+    background-color: bisque;
+    width: 100%;
+    height: 147px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.media{
+    display: flex;
+    width: 25%;
+    justify-content: space-around;
+    img{
+        width: 70px;
+    }
+}
